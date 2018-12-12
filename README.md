@@ -1,22 +1,22 @@
 # Projet Overview:
 ---
-* [Introduction](#introduction)
+* **[Introduction](#introduction)**
 	* [Overview](#overview)
 	* [Motivation](#motivation)
 	* [Specification](#specification)
-* [EDA](#eda)
+* **[EDA](#eda)**
 	* [Data Description](#data-description)
 	* [Visualizations](#visualizations)
-* [Models](#models)
+* **[Models](#models)**
 	* [Baseline Model](#base-line-model-recommending-tracks-by-popularity)
 	* [Collaborative Filtering](#collaborative-filtering)
 	* [Optimizations](#optimizations)
-* [Results](#results)
+* **[Results](#results)**
 	* [Recomendation Generator](#recommendation-overview)
 	* [Accuracy Rating Graphs](#accuracy-ratings)
-* [Conclusions & Summary](#conclusions-&-summary)
-* [Future Work](#future-work)
-* [Team](#team)
+* **[Conclusions & Summary](#conclusions-&-summary)**
+* **[Future Work](#future-work)**
+* **[Team](#team)**
 
 
 ## Introduction
