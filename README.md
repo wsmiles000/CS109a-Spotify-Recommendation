@@ -8,7 +8,7 @@
 	* [Data Description](#data-description)
 	* [Visualizations](#visualizations)
 * [Models](#models)
-	* [Baseline Model](#base-line-model:-recommending-tracks-by-popularity)
+	* [Baseline Model](#base-line-model-recommending-tracks-by-popularity)
 	* [Collaborative Filtering](#collaborative-filtering)
 	* [Optimizations](#optimizations)
 * [Results](#results)
