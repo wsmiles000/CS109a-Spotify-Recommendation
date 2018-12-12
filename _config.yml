@@ -1,0 +1,8 @@
+show_downloads: true
+theme: jekyll-theme-slate
+title: "CS109 Final Project: <br> Spotify Playlist </br> Recommendation"
+description: "Luke Civantos, Patrick Connors, William Smiles"
+github:
+   zip_url: https://github.com/wsmiles000/CS109-Final-Project/tarball/master
+   tar_url: https://github.com/wsmiles000/CS109-Final-Project/zipball/master
+
