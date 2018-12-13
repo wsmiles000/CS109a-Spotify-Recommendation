@@ -236,6 +236,8 @@ We believe that future work on the Spotify Recommendation System could entail th
 
 ## Team
 
+**Group 12** 
+
 Luke Civantos -- [lukecivantos@college.harvard.edu](lukecivantos@college.harvard.edu)  
 Patrick Connors -- [patrickconnors@college.harvard.edu](patrickconnors@college.harvard.edu)  
 Will Smiles -- [wsmiles@college.harvard.edu](wsmiles@college.harvard.edu)
