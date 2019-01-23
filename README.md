@@ -34,7 +34,7 @@ Follow the below instructions to replicate our results.
 
 After cloning our repo, ensure that you have python=3.6.* installed.
 
-Install the requirements with `pip3 install requirements.txt`
+Install the requirements with `pip3 install -r requirements.txt`
 
 Next, [download](https://drive.google.com/file/d/1vvKVox1_MNezGJA7PCt_ZplQDqoVYA--/view) Spotify's Million Playlist Dataset (MPD). Unzip the file and place it in the project's root directory.
 
